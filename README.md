@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Cookie-Licking Detector
 
 A full-stack web application to detect and manage "cookie licking" in open source projects - when contributors claim issues but fail to deliver.
@@ -147,3 +148,13 @@ docker-compose logs -f [service_name]
 ## License
 
 This project is licensed under the MIT License.
+=======
+# Project = Cookie_Licking 
+#16 hour Hackathon 
+Team Name : Team Nova 
+Team leader = Fenil Sata 
+Team member - 1 = Chhavi
+Team member - 2 = Akshit Baliyan 
+Team member - 3 = Saksham Kachhawaha
+Team member - 4 = Abhishek Panigrahi
+>>>>>>> c2ff0feeecd8e8c60038d7b421b705654870f051
